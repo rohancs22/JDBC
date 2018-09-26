@@ -73,7 +73,7 @@ public class demo1 extends JFrame{
         new demo1();
     }
    }*/
-
+//Retrieve Image
 
 import java.sql.*;
 import java.io.*;
